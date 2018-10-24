@@ -1,8 +1,6 @@
-# sampleapp
+flutter-sample
+====
 
-A new Flutter project.
+flutterのサンプルアプリです
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+入力したワードを楽天APIで検索してリストに出します
